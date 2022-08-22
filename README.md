@@ -1,1 +1,1 @@
-#JDBC bağlantısı için hazır class
+JDBC bağlantısı için hazır class
