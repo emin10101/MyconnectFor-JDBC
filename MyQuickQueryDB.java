@@ -1,5 +1,3 @@
-package com.deneme.app;
-
 import java.sql.Connection;
 import java.sql.Statement;
 
