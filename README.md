@@ -1,1 +1,1 @@
-<h1>JDBC bağlantısı için hazır class</h1>
+<h1>Ready class and example query for JDBC connection</h1>
